@@ -3,7 +3,7 @@ Oi! Eu sou o Rhyan 👋
 💻 Desenvolvedor em formação | 🎓 ADS - UNIFOR
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=BB6BD9&center=true&vCenter=true&width=500&lines=Backend+Developer+em+Forma%C3%A7%C3%A3o;Apaixonado+por+APIs+REST;Java+%7C+Spring+Boot+%7C+Node.js" />
+<img src="https://readme-typing-svg.herokuapp.com?color=BB6BD9&center=true&vCenter=true&width=500&lines=+Developer+em+Forma%C3%A7%C3%A3o;APIs+REST;Java+%7C+Spring+Boot+%7C+Node.js" />
 </p>
 
 
@@ -26,14 +26,19 @@ Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs RES
 
 
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=radical&hide_border=true&locale=pt-br&show=prs_merged,prs_merged_percentage" alt="Rhyan's GitHub Stats" />
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=radical&hide_border=true&locale=pt-br" alt="Rhyan's Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="48%"
+  />
 </p>
+
 
 🐍 GitHub Snake
 
