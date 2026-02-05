@@ -38,9 +38,8 @@ Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs RES
 🐍 GitHub Snake
 
 <p align="center">
-<!-- COMECE: GitHub Snake -->
-  <img src="https://github.com/rhyanzfxp/rhyanzfxp/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  <!-- FIM: GitHub Snake -->
+<p align="center">
+  <img src="https://github.com/rhyanzfxp/rhyanzfxp/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 
