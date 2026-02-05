@@ -30,15 +30,14 @@ Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs RES
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=dracula&locale=pt-br"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=dracula&langs_count=8"
     width="48%"
   />
 </p>
-
 
 🐍 GitHub Snake
 
