@@ -10,7 +10,7 @@
 ## ✨ Sobre mim
 
 <p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em backend e arquitetura de software.  
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em backend e arquitetura de software.<br/>
 Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs REST, aplicando boas práticas e explorando microserviços 🚀
 </p>
 
@@ -27,8 +27,27 @@ Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs RES
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=radical&hide_border=true"/>
+
+<a href="https://github.com/rhyanzfxp#gh-dark-mode-only">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/rhyanzfxp#gh-light-mode-only">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/rhyanzfxp#gh-dark-mode-only">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/rhyanzfxp#gh-light-mode-only">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=default&hide_border=true#gh-light-mode-only"/>
+</a>
+
 </p>
 
 <p align="center">
