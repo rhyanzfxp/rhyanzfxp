@@ -28,30 +28,14 @@ Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs RES
 
 <p align="center">
 
-<a href="https://github.com/rhyanzfxp#gh-dark-mode-only">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
 
-<a href="https://github.com/rhyanzfxp#gh-light-mode-only">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rhyanzfxp&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"/>
-</a>
+<br/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
 
-<p align="center">
-
-<a href="https://github.com/rhyanzfxp#gh-dark-mode-only">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only"/>
-</a>
-
-<a href="https://github.com/rhyanzfxp#gh-light-mode-only">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanzfxp&layout=compact&theme=default&hide_border=true#gh-light-mode-only"/>
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rhyanzfxp&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
