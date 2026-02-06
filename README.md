@@ -39,7 +39,7 @@ Tenho experiência acadêmica com Java + Spring Boot e Node.js, criando APIs RES
   />
 </p>
 
-🐍 GitHub Snake
+🐍 Commits
 
 <p align="center">
 <p align="center">
