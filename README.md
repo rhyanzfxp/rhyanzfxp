@@ -1,4 +1,4 @@
-Oi! Eu sou o Rhyan 👋
+<h3 Oi! Eu sou o Rhyan 👋 </h3>
 
 💻 Desenvolvedor em formação | 🎓 ADS - UNIFOR
 
