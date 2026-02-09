@@ -12,7 +12,8 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **backend** e **arquitetura de software**.  
 
-Tenho experiência acadêmica com **Java + Spring Boot** e **Node.js**, criando **APIs REST**, aplicando boas práticas e explorando **microserviços** 🚀
+Tenho experiência acadêmica com **Java + Spring Boot** e **Node.js**, criando **APIs REST**, aplicando boas práticas e explorando **microserviços**
+Assim como também estou desenvolvendo outras tecnologias para experiência na minha carreira🚀
 
 ---
 
